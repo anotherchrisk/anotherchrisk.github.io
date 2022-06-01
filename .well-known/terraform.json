@@ -1,4 +1,4 @@
 {
-  "modules.v1": "https://modules.example.com/v1/"
+  "modules.v1": "/terraform/providers/v1/"
 }
 
