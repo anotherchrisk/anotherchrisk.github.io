@@ -1,0 +1,21 @@
+{
+  "protocols": ["4.0", "5.1", "5.2"],
+  "os": "linux",
+  "arch": "amd64",
+  "filename": "terraform-provider-nsxt_3.2.7-DEV_linux_amd64.zip",
+  "download_url": "https://github.com/anotherchrisk/terraform-provider-nsxt/releases/download/v3.2.7-DEV/terraform-provider-nsxt_3.2.7-DEV_linux_amd64.zip",
+  "shasums_url": "https://github.com/anotherchrisk/terraform-provider-nsxt/releases/download/v3.2.7-DEV/terraform-provider-nsxt_3.2.7-DEV_SHA256SUMS",
+  "shasums_signature_url": "https://github.com/anotherchrisk/terraform-provider-nsxt/releases/download/v3.2.7-DEV/terraform-provider-nsxt_3.2.7-DEV_SHA256SUMS.sig",
+  "shasum": "0a790d72967867b87302256007b85ece359596777a52bdfabd810c1f387ff62f",
+  "signing_keys": {
+    "gpg_public_keys": [
+      {
+        "key_id": "86F7E484F25F01F82116E53E4764E982C74E8D97",
+        "ascii_armor": "-----BEGIN PGP PUBLIC KEY BLOCK-----\n\n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\n=BMgf\n-----END PGP PUBLIC KEY BLOCK-----",
+        "trust_signature": "",
+        "source": "anotherchrisk",
+        "source_url": "none"
+      }
+    ]
+  }
+}
