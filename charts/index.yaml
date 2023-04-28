@@ -9,6 +9,6 @@ entries:
     name: chrisk-vcluster
     type: application
     urls:
-    - chrisk-vcluster-0.0.1.tgz
+    - https://anotherchrisk.github.io/charts/chrisk-vcluster-0.0.1.tgz
     version: 0.0.1
 generated: "2023-04-28T12:35:46.449851+01:00"
